@@ -13,4 +13,8 @@ public class MessageResourceTest {
 
     }
 
+    @Test
+    public void doNothing() throws Exception {
+        System.out.println("I added a print line.");
+    }
 }

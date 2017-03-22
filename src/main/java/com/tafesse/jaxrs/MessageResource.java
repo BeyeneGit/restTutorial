@@ -7,6 +7,8 @@ import javax.ws.rs.Path;
 public class MessageResource {
     @GET
     public String sayHello(){
+        System.out.println("I am here to check debugging.");
+        System.out.println("I am here to check debugging again.");
         return "Good moring mister again and again!!!!";
     }
 

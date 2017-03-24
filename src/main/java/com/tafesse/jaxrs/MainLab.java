@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * Created by eigenaar on 23-3-2017.
  */
-//
+
 public class MainLab {
     private static final String fileName = "file/test.txt";
     public static void main(String[] args) {
